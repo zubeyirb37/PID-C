@@ -1,7 +1,7 @@
 # PID-C
 PID program in C Language
 
-Geliştirici: Zübeyir Bakacak -> Instagram: @zubeyirb.56
+Geliştirici: Zübeyir Bakacak
 
 Öncelikle bu programda zaman değişimi (dt) Hesaba katılmamıştır.
 Dev C++ Üzerinde derlendi, haricen kütüphane eklenmemiştir.
